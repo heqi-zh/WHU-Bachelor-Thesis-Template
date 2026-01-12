@@ -1,21 +1,12 @@
 # 武汉大学本科毕业设计（论文）LaTeX 模板
 
-本项目为武汉大学本科毕业设计（论文）LaTeX 模板。本模板在 whu-thesis 2019 版的基础上进行修改以符合 2021 级（2025届）国家网络安全学院的要求。
+本项目为武汉大学本科毕业设计（论文）LaTeX 模板。本模板在 whu-thesis 2019 版的基础上进行修改以符合 2022 级（2026届）遥感信息工程学院的要求。
 
-## 样例展示
+欢迎26届毕业的遥感院同学使用此模板！也欢迎大家可以根据遥感院的官方Word模板持续检查更新此模板！
 
-![pic1](.assets/pic1.png)
-
-![pic2](.assets/pic2.png)
-
-![pic3](.assets/pic3.png)
-
-![pic4](.assets/pic4.png)
-
-![pic5](.assets/pic5.png)
-
-
-完整样例请查看 demo.pdf。
+## 使用教程
+1. 建议使用者有一定的LaTeX基础，本模板可使用本地LaTeX（Tex Live）或者在线的 Overleaf进行使用
+2. 
 
 ## 注意事项
 
@@ -26,3 +17,5 @@
 ## 致谢
 
 武汉大学毕业论文 LaTeX 模板：[whu-thesis](https://github.com/whutug/whu-thesis)
+
+武汉大学网络安全学院毕业论文 LaTeX 模板：[WHU-Bachelor-Thesis-Template](https://github.com/AaronComo/WHU-Bachelor-Thesis-Template)

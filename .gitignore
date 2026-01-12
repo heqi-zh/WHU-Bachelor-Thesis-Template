@@ -1,1 +1,13 @@
 .DS_Store
+
+# 编译的中间产物
+**/*.aux
+**/*.log
+**/*.out
+**/*.pdf
+**/*.toc
+**/*.synctex.gz
+**/*.thm
+
+# page下的tex
+page/**/*.tex
