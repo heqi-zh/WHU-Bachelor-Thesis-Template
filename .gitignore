@@ -11,3 +11,5 @@
 
 # page下的tex
 page/**/*.tex
+
+.vscode/

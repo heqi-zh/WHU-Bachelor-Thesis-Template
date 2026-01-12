@@ -5,8 +5,8 @@
 欢迎26届毕业的遥感院同学使用此模板！也欢迎大家可以根据遥感院的官方Word模板持续检查更新此模板！
 
 ## 使用教程
-1. 建议使用者有一定的LaTeX基础，本模板可使用本地LaTeX（Tex Live）或者在线的 Overleaf进行使用
-2. 
+1. （使用）使用者应有一定的 LaTeX 基础，本模板可使用本地 LaTeX（Tex Live）或者在线的 Overleaf 进行使用。
+2. （开发）请设置自己的.gitignore，避免将个人的论文信息上传到公共平台，建议仅通过 [whu-bachelor-style.cls](whu-bachelor-style.cls) 来更新此模板。
 
 ## 注意事项
 
