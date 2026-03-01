@@ -13,3 +13,5 @@
 page/**/*.tex
 
 .vscode/
+
+main.tex
